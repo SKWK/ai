@@ -17,10 +17,6 @@ Rapperize writes a rap summary of any webpage.
 Training the neural network to recognize handwritten digits.  
 [digitsdemo.pages.dev](https://digitsdemo.pages.dev)  
 
-### NL2SQL
-Query your data using natural language.  
-(work in progress)  
-
 ---  
 
 Interested in working at a fast growth startup? [Yes](https://forms.gle/VRqfq1zoj3p1FeGx5)  
