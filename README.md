@@ -1,6 +1,10 @@
 # Experiments
 Developed by [@samkwok01](https://twitter.com/samkwok01), who happens to be a VC (would love to see what you are building!)
 
+### AI VC
+Pitch your company to AI VC.  
+[aivcpartner.com](https://www.aivcpartner.com)
+
 ### StockchartAI
 AI generated artworks from stock charts.  
 [stockchart.ai](https://stockchart.ai) | [@stockchartai](https://instagram.com/stockchartai)  
