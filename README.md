@@ -5,6 +5,10 @@ Developed by [@samkwok01](https://twitter.com/samkwok01), who happens to be a VC
 Pitch your company to AI VC.  
 [aivcpartner.com](https://www.aivcpartner.com)
 
+### Multimodal AI
+Speak to AI and ask visual questions.  
+[multimodal-ai.vercel.app](https://multimodal-ai.vercel.app)
+
 ### StockchartAI
 AI generated artworks from stock charts.  
 [stockchart.ai](https://stockchart.ai) | [@stockchartai](https://instagram.com/stockchartai)  
